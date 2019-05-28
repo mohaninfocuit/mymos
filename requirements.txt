@@ -1,0 +1,14 @@
+Flask==0.12.2
+gunicorn==0.17.2
+psycopg2==2.7.3.2
+PyGreSQL==5.0.4
+PyMySQL==0.7.11
+pytz==2017.3
+rfc5424-logging-handler==1.0.3
+tzlocal==1.4
+Werkzeug==0.12.2
+requests
+pushjack==1.4.0
+Flask-Cors==3.0.3
+matplotlib==3.0.3
+pygal==2.4.0
