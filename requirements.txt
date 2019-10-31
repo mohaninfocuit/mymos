@@ -6,7 +6,7 @@ PyMySQL==0.7.11
 pytz==2017.3
 rfc5424-logging-handler==1.0.3
 tzlocal==1.4
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 requests
 pushjack==1.4.0
 Flask-Cors==3.0.3
